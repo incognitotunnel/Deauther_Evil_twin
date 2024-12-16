@@ -1,0 +1,4 @@
+# arduino-cli.yaml
+board_manager:
+  additional_urls:
+    - https://github.com/incognitotunnel/Deauther_Evil_twin/blob/wifi_duck/package_incognitotunnel_index.json
